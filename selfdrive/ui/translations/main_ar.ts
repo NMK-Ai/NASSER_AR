@@ -3750,7 +3750,7 @@
     <message>
         <location filename="../qt/widgets/opkr.h" line="712"/>
         <source>Disable Radar</source>
-        <translation>تعطسل الرادار</translation>
+        <translation>تعطيل الرادار</translation>
     </message>
     <message>
         <location filename="../qt/widgets/opkr.h" line="712"/>
